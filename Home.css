@@ -358,7 +358,6 @@ aside{
   height: 50px;
   color: aqua;
   font-size: 8px;
-  position: fixed;
   text-align: center;
   animation:op 0.5s backwards, po 0.3s 1.9s forwards;
 }
@@ -416,4 +415,5 @@ pre{
   50%{
     opacity: 1;
   }
+
 }
